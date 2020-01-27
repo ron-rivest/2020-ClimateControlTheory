@@ -1,2 +1,2 @@
-# ClimateControlTheory
-Routines to explore application of control theory to climate management.
+# 2020-ClimateControlTheory
+Julia routines to explore application of control theory to climate management.
